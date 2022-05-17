@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSN Validator", "SSN Validator\SSN Validator.csproj", "{F7B58DA8-F714-4E51-94FB-34B9A963907D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7B58DA8-F714-4E51-94FB-34B9A963907D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B58DA8-F714-4E51-94FB-34B9A963907D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B58DA8-F714-4E51-94FB-34B9A963907D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B58DA8-F714-4E51-94FB-34B9A963907D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34E0B595-E823-4F3D-AA14-EE866779C0D1}
+	EndGlobalSection
+EndGlobal
