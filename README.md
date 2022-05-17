@@ -99,7 +99,7 @@ This way, the algorithm can be run in Visual Studio from the command line.
     
 ## 3. **End-user Document**
     
-   [End-user Document](/End-User Documentation.md)
+   [Requirements, Acceptance Criteria, and Test Cases](docs/End-User Documentation.md)
     
 ## 4. **Test Plan**
     
