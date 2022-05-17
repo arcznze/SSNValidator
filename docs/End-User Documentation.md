@@ -104,7 +104,7 @@ This way, the algorithm can be run in Visual Studio from the command line.
 
 The algorithm performs certain actions, depending on what the user inputs. Among these options is evaluating whether the entered text string is long enough to be considered a valid social security number. From there, you will review the conditions that must be met to be considered a valid social security number. The following diagram will explain it in detail:
 
-
+![System Overview Diagram](docs/Blank diagram (1).png)
 
 ## **4. Particular Methods Defined**
 
