@@ -79,7 +79,7 @@ Downloading the latest version of .NET on Windows requires you to first download
 
 In the Linux Terminal, type:
 
-`git clone` 
+`git clone https://github.com/arcznze/SSNValidator.git` 
 
 `cd` 
 
@@ -89,7 +89,7 @@ In the Linux Terminal, type:
 
 In the Windows Command Line, type:
 
-`git clone <>`
+`git clone https://github.com/arcznze/SSNValidator.git`
 
 `cd <>`
 
