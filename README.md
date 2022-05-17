@@ -103,4 +103,4 @@ This way, the algorithm can be run in Visual Studio from the command line.
     
 ## 4. **Test Plan**
     
-   [Test Plan](/Test PLan.md)
+   [Test Plan](docs/Test PLan.md)
