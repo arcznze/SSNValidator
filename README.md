@@ -99,8 +99,8 @@ This way, the algorithm can be run in Visual Studio from the command line.
     
 ## 3. **End-user Document**
     
-   [End-user Document](docs/End-User Documentation.md)
+   [End-user Document](/End-User Documentation.md)
     
 ## 4. **Test Plan**
     
-   [Test Plan](docs/Test PLan.md)
+   [Test Plan](/Test PLan.md)
