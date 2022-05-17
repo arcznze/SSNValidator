@@ -84,7 +84,7 @@ In the Linux Terminal, type:
 
 `git clone https://github.com/arcznze/SSNValidator.git` 
 
-`cd` 
+`cd SSN Validator` 
 
 `dotnet run`
 
@@ -94,9 +94,9 @@ In the Windows Command Line, type:
 
 `git clone https://github.com/arcznze/SSNValidator.git`
 
-`cd <>`
+`cd SSN Validator`
 
-`<>`
+`Program.cs`
 
 This way, the algorithm can be run in Visual Studio from the command line.
 
